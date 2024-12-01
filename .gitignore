@@ -1,0 +1,5 @@
+*.env
+*.txt
+build
+*node_modules
+.api
